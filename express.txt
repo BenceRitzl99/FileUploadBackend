@@ -1,0 +1,7 @@
+npm init -y
+npm i expressjs
+npm i fs
+npm i multer
+npm i path
+npm i cors
+ 
